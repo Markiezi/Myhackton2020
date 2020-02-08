@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/dachboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/plan"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/smile"
+        android:title=""
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/messengeicon"
+        android:title=""
+        />
+
+</menu>
